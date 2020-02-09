@@ -1,16 +1,3 @@
-<img src="/docs/rnsk-logo.jpg" alt="React Native Starter Kit" width="400" />
-
-[![GitHub tag](https://img.shields.io/github/tag/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/tags)
-[![GitHub contributors](https://img.shields.io/github/contributors/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/contributors)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/mcnamee/react-native-starter-kit/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/issues-closed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/issues-pr)
-
----
-
-[![CryptoTip](https://img.shields.io/badge/Donate%20with-CryptoTip-blue.svg?style=flat&colorB=007bff)](https://cryptotip.it/p/mcnamee)  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7CE3LJYX859E)
-
 # React (Web + Native) Starter Kit
 
 #### For when you're looking to build 'the next big thing' for both web and native mobile.
@@ -105,16 +92,3 @@ Via webpack, starts a localhost server on port 3001 [http://localhost:3001](http
 - Save code and it auto refreshes
 - Install [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) into Chrome to see the state of Redux
 
----
-
-## 👊 Further Help?
-
-This repo is a great place to start, but if you'd prefer to sit back and have your new project built for you, [get in touch with me directly](https://mcnam.ee) and I can organise a quote.
-
----
-
-## 💡 Inspiration
-
-- [This blog post](http://jkaufman.io/react-web-native-codesharing/) helped put the ideas into action
-
-_If there's any other ideas presented in this repo, that you think worth mentioning - feel free open a pull request :)_
